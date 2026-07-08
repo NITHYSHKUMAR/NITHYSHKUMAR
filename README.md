@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithysh%20Kumar%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%40%20Unisys%20%7C%20Deep%20Learning%20%26%20Enterprise%20Systems&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nithysh%20Kumar%20G&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20at%20Unisys%20%7C%20Deep%20Learning%20and%20Enterprise%20Systems&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://linkedin.com/in/nithysh-kumar-767063244"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nithysh.nk23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Location-Puducherry,%20India-70A5FD?style=flat-square&logo=googlemaps&logoColor=white"/>
 <img src="https://komarev.com/ghpvc/?username=NITHYSHKUMAR&style=flat-square&color=70a5fd" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Engineer+%40+Unisys+%E2%80%94+Enterprise+Computing;Deep+Learning%3A+92%25%2B+accuracy+Alzheimer's+classifier;AWS+Certified+%7C+CI%2FCD+%7C+Agile%2FScrum;Published+Researcher+%E2%80%94+JISEM+2025" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Software+Engineer+%40+Unisys;Deep+Learning+%7C+92%25%2B+Accuracy+Models;AWS+Certified+%7C+CI%2FCD+%7C+Agile;Published+Researcher+-+JISEM+2025" alt="Typing SVG" />
 
 </div>
 
